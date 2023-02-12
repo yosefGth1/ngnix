@@ -1,0 +1,9 @@
+.page-content {
+    padding: 25px;
+}
+
+.tile-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}

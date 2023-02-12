@@ -1,0 +1,15 @@
+.logo-noch {
+    width: 120px;
+    height: 120px;
+    position: fixed;
+    right: -20px;
+    top: -40px;
+    border-radius: 25px;
+    rotate: -25deg;
+}
+
+.logo {
+    rotate: 25deg;
+    margin-top: 35px;
+    margin-right: 35px;
+}
